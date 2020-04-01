@@ -1,0 +1,1 @@
+SELECT * FROM `data of patient`.`ata of blood bank`;
